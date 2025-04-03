@@ -1,5 +1,3 @@
----
-
 # README for MBDyn Tasks (PID Control and Rigid Pendulum)
 
 ## Introduction
